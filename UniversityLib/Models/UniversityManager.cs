@@ -87,7 +87,7 @@ namespace UniversityLib.Models
 
         public bool Remove(Kafedra kafedra)
         {
-            throw new NotImplementedException();
+            return true;
         }
 
         public bool Remove(Facultet facultet)
